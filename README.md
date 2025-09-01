@@ -23,7 +23,7 @@ The system provides a simple, interactive interface where:
 3. 📑 The system generates a ranked list of five recommended anime titles.  
 
 ### Screenshots 
-![Recommendation Results]()  
+![Recommendation Results]  
 
 ![gui_screens](https://github.com/user-attachments/assets/31c6a783-22f7-4231-b2e8-3dbcd4a71047)
 
